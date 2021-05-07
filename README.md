@@ -1,3 +1,3 @@
 # Love_Calculator
-My first Python project - Love Calculator
+My first Python project - Love Calculator.
 
